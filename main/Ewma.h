@@ -11,7 +11,7 @@
 */ 
 
 #ifndef EWMA_H_
-#define EWMA_H_
+static constexpr float EWMA_H_
 
 class Ewma{
 public:
